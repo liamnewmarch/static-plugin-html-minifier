@@ -1,0 +1,29 @@
+{
+  "name": "@liamnewmarch/static-plugin-html-minifier",
+  "version": "0.1.0",
+  "description": "Static plugin to add support for HTMLMinifier",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamnewmarch/static-plugin-html-minifier.git"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "generator",
+    "plugin",
+    "html-minifier"
+  ],
+  "author": "Liam Newmarch <liamnewmarch@users.noreply.github.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liamnewmarch/static-plugin-html-minifier/issues"
+  },
+  "homepage": "https://github.com/liamnewmarch/static-plugin-html-minifier#readme",
+  "peerDependencies": {
+    "@liamnewmarch/static": "^0.2.0"
+  },
+  "dependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}
