@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/liamnewmarch/static-plugin-html-minifier#readme",
   "peerDependencies": {
-    "@liamnewmarch/static": "^0.2.0"
+    "@liamnewmarch/static": "^0.3.1"
   },
   "dependencies": {
     "html-minifier": "^4.0.0"
